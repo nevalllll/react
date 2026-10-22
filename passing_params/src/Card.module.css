@@ -1,0 +1,11 @@
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 1rem;
+    border-color: gray;
+}
