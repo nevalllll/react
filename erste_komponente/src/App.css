@@ -1,0 +1,15 @@
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.Card {
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.Card-container {
+  display: flex;
+  gap: 20px;
+}
